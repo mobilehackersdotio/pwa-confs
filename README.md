@@ -16,7 +16,7 @@ Just send a pull-request which edit a file of the [/conferences](https://github.
   "city": "",
   "country": "",
   "cfpUrl": "",
-  "cfpStartDate": "YYYY-MM-DD"
+  "cfpStartDate": "YYYY-MM-DD",
   "cfpEndDate": "YYYY-MM-DD"
 }
 ```
