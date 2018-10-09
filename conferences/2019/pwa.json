@@ -6,5 +6,13 @@
     "endDate": "2019-06-07",
     "city": "Berlin",
     "country": "Germany"
+  },
+{
+    "name": "SmashingConf",
+    "url": "https://www.smashingconf.com/toronto-2019",
+    "startDate": "2018-06-25",
+    "endDate": "2018-06-26",
+    "city": "Toronto",
+    "country": "Canada"
   }
 ]
