@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "name": "MobileTech",
+    "url": "https://mobiletechcon.de/en",
+    "startDate": "2018-03-12",
+    "endDate": "2018-03-14",
+    "city": "Munich",
+    "country": "Germany"
+  },
+  {
+    "name": "Google I/O",
+    "url": "https://events.google.com/io",
+    "city": "Mountain View",
+    "country": "U.S.A.",
+    "startDate": "2018-05-08",
+    "endDate": "2018-05-10"
+  },
+  {
+    "name": "Connect.tech",
+    "url": "http://connect.tech",
+    "startDate": "2018-10-17",
+    "endDate": "2018-10-19",
+    "city": "Atlanta",
+    "country": "U.S.A."
+  },
+  {
+    "name": "jsMobileConf",
+    "url": "https://jsmobileconf.com",
+    "startDate": "2018-10-25",
+    "endDate": "2018-10-26",
+    "city": "Boston",
+    "country": "U.S.A."
+  },
+  {
+    "name": "Mobile Era",
+    "url": "https://mobileera.rocks",
+    "startDate": "2018-11-01",
+    "endDate": "2018-11-02",
+    "city": "Oslo",
+    "country": "Norway",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform",
+    "cfpEndDate": "2018-05-17"
+  },
+  {
+    "name": "Mobile One",
+    "url": "https://www.mobile.one/",
+    "startDate": "2018-11-14",
+    "endDate": "2018-11-15",
+    "city": "Paris",
+    "country": "France"
+  }
+]
