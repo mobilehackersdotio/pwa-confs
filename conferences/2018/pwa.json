@@ -1,5 +1,14 @@
 [
   {
+    "name": "ReactFoo",
+    "url": "https://reactfoo.in/2018-pune",
+    "startDate": "2018-01-19",
+    "endDate": "2018-01-20",
+    "city": "Pune",
+    "country": "India",
+    "cfpUrl": "https://reactfoo.talkfunnel.com/2018-pune"
+  },
+  {
     "name": "MobileTech",
     "url": "https://mobiletechcon.de/en",
     "startDate": "2018-03-12",
@@ -15,6 +24,14 @@
     "startDate": "2018-05-08",
     "endDate": "2018-05-10"
   },
+  {
+    "name": "Reacticon",
+    "url": "https://reacticon.org",
+    "startDate": "2018-10-04",
+    "endDate": "2018-10-05",
+    "city": "Eindhoven",
+    "country": "Netherlands"
+  }
   {
     "name": "Connect.tech",
     "url": "http://connect.tech",
@@ -32,6 +49,14 @@
     "country": "U.S.A."
   },
   {
+    "name": "SmashingConf",
+    "url": "https://smashingconf.com/ny-2018",
+    "startDate": "2018-10-23",
+    "endDate": "2018-10-24",
+    "city": "New York",
+    "country": "U.S.A."
+  },
+  {
     "name": "Mobile Era",
     "url": "https://mobileera.rocks",
     "startDate": "2018-11-01",
@@ -40,6 +65,14 @@
     "country": "Norway",
     "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeaoGqR9lG0nJeKGdms9FhkdL8zz4aQ6hNRL1mzp3vZU1fb9Q/viewform",
     "cfpEndDate": "2018-05-17"
+  },
+  {
+    "name": "performance.now()",
+    "url": "https://perfnow.nl",
+    "startDate": "2018-11-08",
+    "endDate": "2018-11-09",
+    "city": "Amsterdam",
+    "country": "Netherlands"
   },
   {
     "name": "Mobile One",
