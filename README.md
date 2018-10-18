@@ -1,6 +1,6 @@
 # pwa-confs
 
-An open source community-curated list of PWA conferences around the world for mobile developers that bet on the web.
+An open source community-curated list of PWA conferences around the world for mobile developers who bet on the web.
 
 Adding a conference
 -------------------
@@ -23,8 +23,9 @@ Just send a pull-request which edit a file of the [/conferences](https://github.
 
 Notes: 
 - Do not include the location of the conference in the name but specify it through the country attribute.
-- Cfp means "call for papers" and cfpUrl and cfPendDate are optional links, please do not include these attributes instead of leaving them blank.
-- Please do not include regular meetups
+- Cfp means "call for papers" 
+- cfpUrl and cfPendDate are optional links, please do not include these attributes instead of leaving them blank.
+- Please do not include regular meetups or workshops
 
 You can also ping us on [twitter](https://twitter.com/mobilehackersio).
 
